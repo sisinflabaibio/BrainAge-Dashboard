@@ -102,4 +102,8 @@ class tabManager:
         
         fig.update_layout(plot_bgcolor='#F5F5F5');
         
+        fig.update_traces({'name': 'Left hemisphere'}, selector={'name': 'Left'});
+        fig.update_traces({'name': 'Right hemisphere'}, selector={'name': 'Right'});
+        #fig.update_traces({'name': 'trace 2, aka B'}, selector={'name': 'B'})
+        
         return fig
