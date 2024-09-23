@@ -152,4 +152,4 @@ def update_dependecy_deep(clickData):
 ''' Run server '''
 
 if __name__ == '__main__':
-    app.run(debug=True, host = serverAdress, port = serverPort);
+    app.run(debug=False);

@@ -10,7 +10,3 @@ startFeature = "ctx-lh-bankssts";
 # path to load data
 dataPath = './data/statistics.csv';
 shapsPath = './data/shaps.csv';
-
-# Server:
-serverAdress = "localhost";
-serverPort = "8080";
