@@ -8,8 +8,8 @@
 startFeature = "ctx-lh-bankssts";
 
 # path to load data
-dataPath = './data/p_values/formatData.csv';
-shapsPath = './data/shaps/shaps.csv';
+dataPath = './data/statistics.csv';
+shapsPath = './data/shaps.csv';
 
 # Server:
 serverAdress = "localhost";

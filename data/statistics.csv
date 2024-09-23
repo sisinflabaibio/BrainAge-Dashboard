@@ -1,0 +1,205 @@
+Data_type,Feature,-log10(p value),Position
+DeepSHAP,bankssts,0.0349749199604223,Left
+DeepSHAP,caudalanteriorcingulate,9.303642740216093,Left
+DeepSHAP,caudalmiddlefrontal,45.8886407797828,Left
+DeepSHAP,cuneus,1.3766613029475776,Left
+DeepSHAP,entorhinal,15.43568127971181,Left
+DeepSHAP,fusiform,24.59953389464313,Left
+DeepSHAP,inferiorparietal,0.5959905349885691,Left
+DeepSHAP,inferiortemporal,15.058507967861576,Left
+DeepSHAP,isthmuscingulate,10.058630474661076,Left
+DeepSHAP,lateraloccipital,9.432964617929672,Left
+DeepSHAP,lateralorbitofrontal,30.67110854256352,Left
+DeepSHAP,lingual,16.86934782485989,Left
+DeepSHAP,medialorbitofrontal,35.40859910728016,Left
+DeepSHAP,middletemporal,1.0186112638800842,Left
+DeepSHAP,parahippocampal,1.5194003890980363,Left
+DeepSHAP,paracentral,10.053135906387432,Left
+DeepSHAP,parsopercularis,9.600724331646006,Left
+DeepSHAP,parsorbitalis,50.90650131232648,Left
+DeepSHAP,parstriangularis,8.871543549975684,Left
+DeepSHAP,pericalcarine,5.148399141193004,Left
+DeepSHAP,postcentral,4.102345481987511,Left
+DeepSHAP,posteriorcingulate,3.348073586869812,Left
+DeepSHAP,precentral,10.352508205423351,Left
+DeepSHAP,precuneus,7.128457446668596,Left
+DeepSHAP,rostralanteriorcingulate,14.97693345009983,Left
+DeepSHAP,rostralmiddlefrontal,41.96565734170447,Left
+DeepSHAP,superiorfrontal,37.54813248992927,Left
+DeepSHAP,superiorparietal,28.423488233761947,Left
+DeepSHAP,superiortemporal,28.843526491437327,Left
+DeepSHAP,supramarginal,8.786776671684565,Left
+DeepSHAP,frontalpole,49.9802770048836,Left
+DeepSHAP,temporalpole,7.88330915369361,Left
+DeepSHAP,transversetemporal,17.120059113327063,Left
+DeepSHAP,insula,29.590406306949497,Left
+DeepSHAP,bankssts,0.2238025944729195,Right
+DeepSHAP,caudalanteriorcingulate,18.369858293919396,Right
+DeepSHAP,caudalmiddlefrontal,40.20832834199362,Right
+DeepSHAP,cuneus,19.21524299918856,Right
+DeepSHAP,entorhinal,0.0535840322472167,Right
+DeepSHAP,fusiform,34.87531377384707,Right
+DeepSHAP,inferiorparietal,22.40410848075348,Right
+DeepSHAP,inferiortemporal,19.57466511554183,Right
+DeepSHAP,isthmuscingulate,0.301888580697171,Right
+DeepSHAP,lateraloccipital,0.2960184456900549,Right
+DeepSHAP,lateralorbitofrontal,4.57079075153442,Right
+DeepSHAP,lingual,56.78809545293575,Right
+DeepSHAP,medialorbitofrontal,22.966937447648004,Right
+DeepSHAP,middletemporal,7.310549982773111,Right
+DeepSHAP,parahippocampal,18.510382580508168,Right
+DeepSHAP,paracentral,52.94738868660591,Right
+DeepSHAP,parsopercularis,26.20013171501784,Right
+DeepSHAP,parsorbitalis,10.792950438494076,Right
+DeepSHAP,parstriangularis,30.538508003247568,Right
+DeepSHAP,pericalcarine,21.43268998053461,Right
+DeepSHAP,postcentral,30.97742549209699,Right
+DeepSHAP,posteriorcingulate,0.6278885758528234,Right
+DeepSHAP,precentral,9.00030003584148,Right
+DeepSHAP,precuneus,0.2749144327843608,Right
+DeepSHAP,rostralanteriorcingulate,14.72753361617508,Right
+DeepSHAP,rostralmiddlefrontal,3.38141093373964,Right
+DeepSHAP,superiorfrontal,31.87167878598664,Right
+DeepSHAP,superiorparietal,51.71822968315922,Right
+DeepSHAP,superiortemporal,54.133463139498375,Right
+DeepSHAP,supramarginal,1.0982189373548743,Right
+DeepSHAP,frontalpole,40.44076828323474,Right
+DeepSHAP,temporalpole,4.285773298463862,Right
+DeepSHAP,transversetemporal,41.10173122720484,Right
+DeepSHAP,insula,1.901537516152267,Right
+Gray matter volume,bankssts,19.54427157452704,Left
+Gray matter volume,caudalanteriorcingulate,2.5675056605504523,Left
+Gray matter volume,caudalmiddlefrontal,10.52179270530533,Left
+Gray matter volume,cuneus,0.4038767390739607,Left
+Gray matter volume,entorhinal,4.401081570904894,Left
+Gray matter volume,fusiform,1.8590828976350375,Left
+Gray matter volume,inferiorparietal,54.98799011248557,Left
+Gray matter volume,inferiortemporal,5.804133369960454,Left
+Gray matter volume,isthmuscingulate,23.069267653417203,Left
+Gray matter volume,lateraloccipital,43.503201305722754,Left
+Gray matter volume,lateralorbitofrontal,75.41068414730225,Left
+Gray matter volume,lingual,26.11864573621209,Left
+Gray matter volume,medialorbitofrontal,14.29062669103694,Left
+Gray matter volume,middletemporal,87.10652036471828,Left
+Gray matter volume,parahippocampal,27.83055471450564,Left
+Gray matter volume,paracentral,45.64047889066092,Left
+Gray matter volume,parsopercularis,29.92741918487018,Left
+Gray matter volume,parsorbitalis,68.81579835081729,Left
+Gray matter volume,parstriangularis,58.59434222120267,Left
+Gray matter volume,pericalcarine,16.40654397923554,Left
+Gray matter volume,postcentral,54.93663504287921,Left
+Gray matter volume,posteriorcingulate,50.67668557677544,Left
+Gray matter volume,precentral,17.841042332340468,Left
+Gray matter volume,precuneus,75.69490595906097,Left
+Gray matter volume,rostralanteriorcingulate,4.305162702250435,Left
+Gray matter volume,rostralmiddlefrontal,70.20840918105621,Left
+Gray matter volume,superiorfrontal,80.65054687780939,Left
+Gray matter volume,superiorparietal,0.8296460980456396,Left
+Gray matter volume,superiortemporal,50.86119170586456,Left
+Gray matter volume,supramarginal,49.54877874301776,Left
+Gray matter volume,frontalpole,73.71499991036248,Left
+Gray matter volume,temporalpole,9.872743937284168,Left
+Gray matter volume,transversetemporal,1.0964413275429254,Left
+Gray matter volume,insula,41.57415856656564,Left
+Gray matter volume,bankssts,38.27177878511245,Right
+Gray matter volume,caudalanteriorcingulate,5.957705417666042,Right
+Gray matter volume,caudalmiddlefrontal,19.50322078398264,Right
+Gray matter volume,cuneus,33.21218984756372,Right
+Gray matter volume,entorhinal,11.76969089948284,Right
+Gray matter volume,fusiform,3.698186811408642,Right
+Gray matter volume,inferiorparietal,2.574823558543045,Right
+Gray matter volume,inferiortemporal,15.1660703288839,Right
+Gray matter volume,isthmuscingulate,21.841616767570187,Right
+Gray matter volume,lateraloccipital,23.41992722526265,Right
+Gray matter volume,lateralorbitofrontal,45.02634355060314,Right
+Gray matter volume,lingual,28.86413925521855,Right
+Gray matter volume,medialorbitofrontal,52.95068303553703,Right
+Gray matter volume,middletemporal,74.9352369161994,Right
+Gray matter volume,parahippocampal,8.225313652608023,Right
+Gray matter volume,paracentral,50.27586215945458,Right
+Gray matter volume,parsopercularis,52.40324620200841,Right
+Gray matter volume,parsorbitalis,43.87813704326682,Right
+Gray matter volume,parstriangularis,76.37346971979824,Right
+Gray matter volume,pericalcarine,13.137109574753364,Right
+Gray matter volume,postcentral,25.500038960674924,Right
+Gray matter volume,posteriorcingulate,76.85759916529967,Right
+Gray matter volume,precentral,36.392690850642495,Right
+Gray matter volume,precuneus,52.833072895047295,Right
+Gray matter volume,rostralanteriorcingulate,10.199063201506911,Right
+Gray matter volume,rostralmiddlefrontal,72.98939654935225,Right
+Gray matter volume,superiorfrontal,98.14375927927688,Right
+Gray matter volume,superiorparietal,18.75206529131988,Right
+Gray matter volume,superiortemporal,60.41642119392395,Right
+Gray matter volume,supramarginal,0.7934182651039442,Right
+Gray matter volume,frontalpole,27.67829877181737,Right
+Gray matter volume,temporalpole,1.1293620478760238,Right
+Gray matter volume,transversetemporal,2.420332778115775,Right
+Gray matter volume,insula,82.0814924381081,Right
+Average thickness,bankssts,33.94994104119408,Left
+Average thickness,caudalanteriorcingulate,8.112580323017887,Left
+Average thickness,caudalmiddlefrontal,6.001263707527508,Left
+Average thickness,cuneus,11.8156717640347,Left
+Average thickness,entorhinal,0.6004989578661097,Left
+Average thickness,fusiform,22.20077101726391,Left
+Average thickness,inferiorparietal,5.655731744915516,Left
+Average thickness,inferiortemporal,0.1056655301216677,Left
+Average thickness,isthmuscingulate,0.5447620335411095,Left
+Average thickness,lateraloccipital,21.251469122180996,Left
+Average thickness,lateralorbitofrontal,1.3962383059241457,Left
+Average thickness,lingual,59.33757343673611,Left
+Average thickness,medialorbitofrontal,2.013650069580049,Left
+Average thickness,middletemporal,17.823732291673466,Left
+Average thickness,parahippocampal,0.5589298938243713,Left
+Average thickness,paracentral,25.46702556737673,Left
+Average thickness,parsopercularis,48.94552032188916,Left
+Average thickness,parsorbitalis,9.989599946031454,Left
+Average thickness,parstriangularis,53.70711099004419,Left
+Average thickness,pericalcarine,19.276792237665028,Left
+Average thickness,postcentral,16.793987295935672,Left
+Average thickness,posteriorcingulate,7.462906874433507,Left
+Average thickness,precentral,32.728893724792435,Left
+Average thickness,precuneus,18.621135947437534,Left
+Average thickness,rostralanteriorcingulate,9.019581843211569,Left
+Average thickness,rostralmiddlefrontal,35.55751141055975,Left
+Average thickness,superiorfrontal,65.68359011732785,Left
+Average thickness,superiorparietal,7.271376328330885,Left
+Average thickness,superiortemporal,85.8651238883258,Left
+Average thickness,supramarginal,41.60684339313193,Left
+Average thickness,frontalpole,19.776446727066183,Left
+Average thickness,temporalpole,0.2300616889363174,Left
+Average thickness,transversetemporal,24.69372065630166,Left
+Average thickness,insula,46.330737506767264,Left
+Average thickness,bankssts,11.751771659215,Right
+Average thickness,caudalanteriorcingulate,16.83431189173354,Right
+Average thickness,caudalmiddlefrontal,41.83610772005197,Right
+Average thickness,cuneus,22.67508078515116,Right
+Average thickness,entorhinal,7.197244606962618,Right
+Average thickness,fusiform,27.5241317834444,Right
+Average thickness,inferiorparietal,46.414308474864406,Right
+Average thickness,inferiortemporal,1.4030531803184236,Right
+Average thickness,isthmuscingulate,11.809829826577634,Right
+Average thickness,lateraloccipital,12.507196686691008,Right
+Average thickness,lateralorbitofrontal,1.892177907105121,Right
+Average thickness,lingual,54.79154489786931,Right
+Average thickness,medialorbitofrontal,3.447107173827473,Right
+Average thickness,middletemporal,11.688163722493874,Right
+Average thickness,parahippocampal,5.288616998635079,Right
+Average thickness,paracentral,51.6419310405029,Right
+Average thickness,parsopercularis,88.34069444232901,Right
+Average thickness,parsorbitalis,1.9246537477147072,Right
+Average thickness,parstriangularis,55.72768258582365,Right
+Average thickness,pericalcarine,4.218354136757944,Right
+Average thickness,postcentral,9.001066950774547,Right
+Average thickness,posteriorcingulate,1.203894898643851,Right
+Average thickness,precentral,28.41555141251696,Right
+Average thickness,precuneus,23.992572225157986,Right
+Average thickness,rostralanteriorcingulate,0.9961174371982752,Right
+Average thickness,rostralmiddlefrontal,18.256223771838243,Right
+Average thickness,superiorfrontal,45.36809033836716,Right
+Average thickness,superiorparietal,10.707393754411578,Right
+Average thickness,superiortemporal,75.06129837044415,Right
+Average thickness,supramarginal,26.55229287726665,Right
+Average thickness,frontalpole,2.624104879903461,Right
+Average thickness,temporalpole,2.581240403164556,Right
+Average thickness,transversetemporal,3.3780697434841493,Right
+Average thickness,insula,80.57207026844932,Right
