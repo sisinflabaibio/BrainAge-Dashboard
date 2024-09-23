@@ -2,7 +2,7 @@ from dash import Dash, html, dcc, callback, Output, Input
 from modules.funcs import load_data, load_shaps, update_dependecy, toyData
 from modules.tab import tabManager
 
-from modules.globals import startFeature, serverAddress, serverPort
+from modules.globals import startFeature, serverAddress, serverPort, debugMode
 
 ''' Load data and draw plot'''
 
@@ -150,4 +150,4 @@ def update_dependecy_deep(clickData):
 ''' Run server '''
 
 if __name__ == '__main__':
-    app.run(debug=False, host = serverAddress, port= serverPort);
+    app.run(debug= debugMode, host = serverAddress, port= serverPort);

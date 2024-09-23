@@ -2,7 +2,6 @@
 import numpy as np
 import pandas as pd
 import plotly.express as px
-from .globals import dataPath, shapsPath
 
 class tabManager:
 
@@ -26,11 +25,11 @@ class tabManager:
         
         if feature[4:6] == "lh":
             titleNameFeature = f"left {feature[7:]}";
-            color = ["blue"];
+            color = ["#5360FD"];
             
         else:
             titleNameFeature = f"right {feature[7:]}";
-            color = ["darkorange"];
+            color = ["#449E48"];
         
         fig = px.scatter(data_frame = self.shaps, 
                         x = feature, 
@@ -39,10 +38,22 @@ class tabManager:
                             "Age": "Age [years]",
                         },
                         y = "Age",
-                        title = f"Dependency plot: {titleNameFeature}",
+                        title = f"Dependence plot: {titleNameFeature}",
                         color_discrete_sequence = color,
                         );
-    
+
+        fig.update_layout(plot_bgcolor='#F5F5F5');
+        
+        fig.update_xaxes(showline=True,
+                         ticks='outside',
+                         linecolor='black',
+                         gridcolor='white');
+        
+        fig.update_yaxes(ticks='outside',
+                        showline=True,
+                        linecolor='black',
+                        gridcolor='white'
+                        );     
         return fig
 
 
@@ -58,24 +69,37 @@ class tabManager:
                             y = "-log10(p value)",
                             title = "Manhattan plot",
                             color = "Position",
-                            color_discrete_sequence = ["blue","darkorange"],
+                            labels = {"Position": "Legend"},
+                            color_discrete_sequence = ["#5360FD","#449E48"],
                         );
 
         fig.add_hline(y = -np.log10(self.alpha), 
                         line_color = 'red', 
                         line_dash = 'dash', 
-                        annotation_text = "alpha",
-                        annotation_position="bottom left",
+                        showlegend = True,
+                        name = '\u03B1 (5%)',
                     );
 
 
         fig.add_hline(y = -np.log10(self.alpha/self.data.shape[0]), 
-                        line_color = 'green', 
+                        line_color = 'orange', 
                         line_dash = 'dash', 
-                        annotation_text = "Corr. alpha",
-                        annotation_position="top left",
+                        showlegend = True,
+                        name = "Bonferroni \u03B1"
                     );
         
-        fig.update_xaxes(tickangle=-60);
+        fig.update_xaxes(tickangle=-60,
+                         ticks='outside',
+                         showline=True,
+                         linecolor='black',
+                         gridcolor='white');
+        
+        fig.update_yaxes(ticks='outside',
+                        showline=True,
+                        linecolor='black',
+                        gridcolor='white'
+                        );
+        
+        fig.update_layout(plot_bgcolor='#F5F5F5');
         
         return fig

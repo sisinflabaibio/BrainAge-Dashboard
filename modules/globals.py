@@ -13,4 +13,7 @@ shapsPath = './data/shaps.csv';
 
 # server 
 serverAddress = "0.0.0.0";
-serverPort = "8080";
+serverPort = "5353";
+
+# Off when hosting online
+debugMode = False;
