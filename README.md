@@ -1,7 +1,3 @@
-# BA1_dashboard
+# Brain Age Dashboard
 
-Questa è la dashboard per il paper _Brain Age 1_.
-
-## Come avviare:
-1. Runnare il main.py;
-2. Accedere a localhost:8080.
+Live on Render: https://brainage-dashboard.onrender.com
