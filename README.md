@@ -1,3 +1,3 @@
 # Brain Age Dashboard
 
-Live on Render: https://brainage-dashboard.onrender.com
+:heavy_exclamation_mark: Click here to explore the dashboard: https://brainage-dashboard.onrender.com
