@@ -1,10 +1,8 @@
 from dash import Dash, html, dcc, callback, Output, Input
-import pandas as pd
 from modules.funcs import load_data, load_shaps, update_dependecy, toyData
 from modules.tab import tabManager
 
-from modules.globals import startFeature, serverAdress, serverPort
-
+from modules.globals import startFeature
 
 ''' Load data and draw plot'''
 
