@@ -12,5 +12,5 @@ dataPath = './data/statistics.csv';
 shapsPath = './data/shaps.csv';
 
 # server 
-serverAddress = "localhost";
+serverAddress = "0.0.0.0";
 serverPort = "8080";
