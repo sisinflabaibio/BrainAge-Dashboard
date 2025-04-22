@@ -8,4 +8,4 @@
 # Pre-trained models
 - DenseNet: https://huggingface.co/SisInfLab-AIBio/BrainAge_DenseNet
 
-- HomogeneousDNN and BrainAge_PyramidalDNN: https://huggingface.co/SisInfLab-AIBio/BrainAge_DNNs
+- HomogeneousDNN and PyramidalDNN: https://huggingface.co/SisInfLab-AIBio/BrainAge_DNNs
